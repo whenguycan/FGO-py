@@ -22,3 +22,8 @@ Log*.txt
 fgoConfig.json
 launch*
 halt*
+
+.codegraph/
+.cursor/
+.claude/
+.codex/
